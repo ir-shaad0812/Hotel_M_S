@@ -1,4 +1,3 @@
 # Hotel_M_S
-Login & Register Authentication completed 
-
+Completed Login & Register Authentication completed 
 HMS
