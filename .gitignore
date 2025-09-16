@@ -1,5 +1,6 @@
 node_modules
-.env
+.env 
+
 //env file must be hidden in which our credentials keys are so it must be hidden
 
 
