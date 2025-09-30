@@ -11,6 +11,7 @@ A fully completed Login & Register Authentication system for the **Hotel Managem
 - ✅ User feedback for errors/success
 - ✅ Clean and responsive UI (Optional if implemented)
 
-Install dependencies (if applicable):
+## Install dependencies (if applicable):
+
 npm install        # For Node.js
 composer install   # For PHP
